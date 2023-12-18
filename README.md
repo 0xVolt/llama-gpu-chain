@@ -1,2 +1,2 @@
-# llama-gpu-chain
-Using LangChain to create a GPU powered instance of a LLaMa model.
+# Create a local GPU powered inference from a LLaMa model.
+
