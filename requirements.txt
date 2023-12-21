@@ -1,0 +1,4 @@
+ipykernel
+huggingface_hub
+transformers
+sentencepiece
