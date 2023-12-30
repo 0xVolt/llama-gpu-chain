@@ -7,4 +7,3 @@ Run `install.sh`. If you have a GPU on your machine, use the `--gpu` flag to ins
 ## Resources
 
 1. [Running `llama-cpp` inferences on an Nvidia GPU](https://kubito.dev/posts/llama-cpp-linux-nvidia/)
-2. 
