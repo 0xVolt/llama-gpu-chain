@@ -2,7 +2,10 @@
 
 ## Usage
 
-Run `install.sh`. If you have a GPU on your machine, use the `--gpu` flag to install the correct dependencies for `llama-cpp`.
+Run `install.sh`. If you have a GPU on your machine, use the `--gpu` flag to install the correct dependencies for `llama-cpp`. For instance, to install dependencies with GPU support:
+
+1. `chmod +x ./install.sh`
+2. `./install.sh`
 
 ## Resources
 
