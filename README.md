@@ -1,4 +1,8 @@
-# Create a local GPU powered inference from a LLaMa model.
+# Create a local, GPU-powered inference endpoint for a LLaMa model.
+
+## About this repository
+
+This repository was made to illustrate how a local instance of a llama model could be created and loaded either onto the CPU or GPU. To use the code in this repository, follow the [`Usage`](#usage) section to install the necessary requirements.
 
 ## Usage
 
@@ -7,6 +11,6 @@ Run `install.sh`. If you have a GPU on your machine, use the `--gpu` flag to ins
 1. `chmod +x ./install.sh`
 2. `./install.sh`
 
-## Resources
+## References
 
 1. [Running `llama-cpp` inferences on an Nvidia GPU](https://kubito.dev/posts/llama-cpp-linux-nvidia/)
